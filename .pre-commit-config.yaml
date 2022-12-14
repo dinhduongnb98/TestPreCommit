@@ -16,3 +16,4 @@ repos:
       entry: python custom.py
       language: python
       pass_filenames: false
+      pre-commit: custom.py
